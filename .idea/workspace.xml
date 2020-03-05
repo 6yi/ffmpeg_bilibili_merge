@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b1a653-d430-4ddb-8bd9-0de262446302" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/brigadier-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yh9XIu0dXpyTzcRYSkj19cDPAF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="go.dep" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\计算机网络\Go_bilibili_merge" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Go_bilibili_merge" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_bilibili_merge" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Go_bilibili_merge" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Go_bilibili_merge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://mirrors.aliyun.com/goproxy/</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583387504795">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="525" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831@0.0.1549.831" timestamp="1583387504795" />
+    <state x="555" y="174" key="FileChooserDialogImpl" timestamp="1583385221282">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1583385221282" />
+    <state width="1506" height="126" key="GridCell.Tab.0.bottom" timestamp="1583396652178">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="126" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1583396652178" />
+    <state width="1506" height="126" key="GridCell.Tab.0.center" timestamp="1583396652178">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="126" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1583396652178" />
+    <state width="1506" height="126" key="GridCell.Tab.0.left" timestamp="1583396652177">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="126" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1583396652177" />
+    <state width="1506" height="126" key="GridCell.Tab.0.right" timestamp="1583396652178">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="126" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1583396652178" />
+    <state x="286" y="61" key="SettingsEditor" timestamp="1583389206275">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="286" y="61" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1583389206275" />
+  </component>
+</project>
