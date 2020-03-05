@@ -42,7 +42,7 @@ func main() {
 
 	}
 	for i:=1;i<=len(f);i++{
-		pathName:="H:/89238680/"+strconv.Itoa(i)+"/"+number
+		pathName:=filename+"/"+strconv.Itoa(i)+"/"+number
 		cmd :=exec.Command(
 			"ffmpeg","-i",
 			pathName+"/video.m4s",
